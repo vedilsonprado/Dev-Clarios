@@ -4,6 +4,8 @@ Cada dupla deverá pesquisar e preparar uma apresentação detalhada sobre um do
 
 Após a apresentação, uma segunda dupla será designada para debater, trazendo argumentos contrários, questionamentos e contrapontos à tecnologia apresentada. O objetivo do debate é estimular a reflexão crítica e aprofundar o conhecimento sobre as diferentes formas de comunicação.
 
+[Slides](https://www.canva.com/design/DAGfWxrfEKc/ULWaLihsRUG072AH52hX-w/view?utm_content=DAGfWxrfEKc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h419e78bf47)
+
 ## Temas Disponíveis:
 ### Cabeado:
 
