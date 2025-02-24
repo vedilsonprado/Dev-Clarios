@@ -25,7 +25,7 @@ Após a apresentação, uma segunda dupla será designada para debater, trazendo
 ### Apresentação (5 a 7 minutos): 
 - A dupla apresentadora deve trazer informações técnicas e práticas sobre o tema, incluindo seu uso no dia a dia e seu impacto na conectividade.
 
-### Debate (xxx):
+### Debate (x minutos):
 - A dupla oponente deve apresentar críticas, desafios e limitações da tecnologia, promovendo uma discussão baseada em fatos e argumentos bem fundamentados.
 
 A avaliação levará em conta a clareza das informações, profundidade da pesquisa, qualidade dos argumentos e capacidade de argumentação no debate.
