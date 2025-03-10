@@ -31,15 +31,15 @@ Após a apresentação, uma segunda dupla será designada para debater, trazendo
 - A dupla apresentante terá 1 minuto para sanar as duvidas e críticas.
 
 Opositores:
-Coaxial - EDUARDA e PAULA
-Par trançado - ALEX e GUSTAVO
-Fibra óptica - GUILHERME e LUIZ
-RFID - JEAN e TIAGO
-NFC - JEFFERSON e PABLO
-Bluetooth - FELIPE e MATHEUS
-Wi-Fi - CAMILLY e LETÍCIA
-Celular - MARIA EDUARDA e SARAH
-Satélite - ANA e RAFAELA
+- Coaxial - EDUARDA e PAULA
+- Par trançado - ALEX e GUSTAVO
+- Fibra óptica - GUILHERME e LUIZ
+- RFID - JEAN e TIAGO
+- NFC - JEFFERSON e PABLO
+- Bluetooth - FELIPE e MATHEUS
+- Wi-Fi - CAMILLY e LETÍCIA
+- Celular - MARIA EDUARDA e SARAH
+- Satélite - ANA e RAFAELA
 
 A avaliação levará em conta a clareza das informações, profundidade da pesquisa, qualidade dos argumentos e capacidade de argumentação no debate.
 
