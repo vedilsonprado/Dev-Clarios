@@ -25,8 +25,21 @@ Após a apresentação, uma segunda dupla será designada para debater, trazendo
 ### Apresentação (5 a 7 minutos): 
 - A dupla apresentadora deve trazer informações técnicas e práticas sobre o tema, incluindo seu uso no dia a dia e seu impacto na conectividade.
 
-### Debate (x minutos):
+### Debate:
 - A dupla oponente deve apresentar críticas, desafios e limitações da tecnologia, promovendo uma discussão baseada em fatos e argumentos bem fundamentados.
+- Terão 2 minutos para a exposição.
+- A dupla apresentante terá 1 minuto para sanar as duvidas e críticas.
+
+Opositores:
+Coaxial - EDUARDA e PAULA
+Par trançado - ALEX e GUSTAVO
+Fibra óptica - GUILHERME e LUIZ
+RFID - JEAN e TIAGO
+NFC - JEFFERSON e PABLO
+Bluetooth - FELIPE e MATHEUS
+Wi-Fi - CAMILLY e LETÍCIA
+Celular - MARIA EDUARDA e SARAH
+Satélite - ANA e RAFAELA
 
 A avaliação levará em conta a clareza das informações, profundidade da pesquisa, qualidade dos argumentos e capacidade de argumentação no debate.
 
