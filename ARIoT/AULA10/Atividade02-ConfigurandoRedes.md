@@ -1,10 +1,8 @@
-# 📘 04-09 | AT04 - Configurando Redes no Packet Tracer
+# 📘 04-28 | AT02 - Configurando Redes no Packet Tracer
 
 **📁 Pasta onde salvar os trabalho:** `D:\Temp\DEV-1D\ARIOT`
 
 **👨🏻‍🏫 Enviar os arquivos no Classroom**
-
-**Faça
 
 ## ATIVIDADE 1 — Rede Local Simples com 1 Switch (Classe C)
 ### **Objetivo:** Criar uma rede local com um switch e 4 computadores, todos pertencentes à mesma rede Classe C.

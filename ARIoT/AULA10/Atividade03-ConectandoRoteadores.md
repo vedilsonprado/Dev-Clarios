@@ -1,10 +1,8 @@
-# 📘 📘 04-16 | ATIVIDADES AVANÇADAS — Redes com Roteadores (Cisco Packet Tracer)
+# 📘 04-28 | AT03 — Redes com Roteadores (Cisco Packet Tracer)
 
 **📁 Pasta onde salvar os trabalho:** `D:\Temp\DEV-1D\ARIOT`
 
 **👨🏻‍🏫 Enviar os arquivos no Classroom**
-
-
 
 ## 🔧 ATIVIDADE 4 — Dois Roteadores com Redes Locais (Classes B e C)
 ### **Objetivo:** Interligar dois roteadores via conexão serial, cada um com sua rede local conectada a um switch.
