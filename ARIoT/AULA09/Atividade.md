@@ -12,8 +12,7 @@ Esta atividade tem como objetivo aprofundar os conhecimentos sobre os principais
   - Exemplos práticos de uso.
   - Demonstração prática no Cisco Packet Tracer simulando o funcionamento do serviço ou protocolo atribuído.
 
-<!--
-> Atenção: No caso do *Web Server*, a apresentação prática deverá demonstrar também o uso do protocolo HTTP ou HTTPS, que é utilizado na comunicação entre cliente e servidor. -->
+<!-- Atenção: No caso do *Web Server*, a apresentação prática deverá demonstrar também o uso do protocolo HTTP ou HTTPS, que é utilizado na comunicação entre cliente e servidor. -->
 
 ---
 
