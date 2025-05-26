@@ -4,70 +4,62 @@
 
 **👨🏻‍🏫 Enviar os arquivos no Thikercad**
 
-## 🧪 ATIVIDADE 7 — Pisca-Pisca com LED
-### **Objetivo:** Controlar o LED piscando com intervalo de tempo.
+## 🧪 ATIVIDADE 7 — Acendendo um LED com Interruptor Deslizante
+### **Objetivo:** Compreender como utilizar um componente de entrada simples (interruptor deslizante) para controlar uma saída (LED).
+Você deverá conectar um interruptor deslizante. Quando o interruptor estiver na posição esquerda, o LED ficará desligado. Na posição direita, o LED deverá piscar lentamente (1 vez por segundo).
+Essa lógica ajuda a identificar leitura de valor digital, e o uso de condicionais com diferentes comportamentos.
 
 **Componentes:**
-- 1 LED vermelho
+- 1 LED
 - 1 resistência de 220 Ω
-- 1 Arduino UNO
-- 1 protoboard
-
-**Regras:**
-- Conectar o LED ao pino 13.
-- Criar um código que acende o LED por 1 segundo e apaga por 1 segundo, continuamente.
-- Dica: use os blocos de "esperar 1 segundo" e "repetir para sempre".
-
+- 1 interruptor deslizante (slide switch)
+- Arduino UNO
+- Protoboard
 
 ### 💾 Salvar como: `07 - SeuNome`
 
-## 🧪 ATIVIDADE 8 — Controle de LED com 2 Botões (Liga / Desliga)
-### **Objetivo:** Usar dois botões para ligar e desligar um LED.
+## 🧪 ATIVIDADE 8 — Controle de Lâmpada com Fotoresistor
+### **Objetivo:** Simular um sistema de iluminação automática com base na luminosidade.
+Você usará um fotoresistor para simular a luz ambiente. Quando o ambiente estiver claro, a lâmpada deve permanecer apagada. Quando a luz ambiente diminuir, a lâmpada deverá acender automaticamente.
+Será necessário configurar a entrada analógica do fotoresistor e usar blocos de comparação de valores para acionar a lâmpada.
 
 **Componentes:**
-- 1 LED vermelho
-- 1 resistência de 220 Ω
-- 2 botões
+- 1 Lâmpada
+- 1 fotoresistor
+- 1 resistor de 10k Ω
 - Arduino UNO
 - Protoboard
-
-**Regras:**
-- Botão 1 (pino 2) liga o LED.
-- Botão 2 (pino 3) desliga o LED.
-- Use blocos com lógica “se botão X pressionado, então...”.
 
 ### 💾 Salvar como: `08 - SeuNome`
 
-## 🧪 ATIVIDADE 9 — Sensor LDR e LED
-### **Objetivo:** Acender o LED quando estiver escuro (simulando um poste de luz).
+## 🧪 ATIVIDADE 9 —  LED RGB com Controle Manual
+### **Objetivo:** Compreender o funcionamento do LED RGB com acionamento manual das cores.
+Você deverá conectar 3 botões, onde:
+- botão 1 ativa a cor vermelha,
+- botão 2 ativa a cor verde,
+- botão 3 ativa a cor azul.
+
+Somente uma cor pode ser ativada por vez. O sistema deve desligar as outras cores ao pressionar um botão. Ajuda a entender o controle de múltiplas saídas em paralelo e exclusão de estados.
 
 **Componentes:**
-- 1 LED branco
-- 1 resistência de 220 Ω
-- 1 sensor LDR (resistor dependente de luz)
-- 1 resistor de 10kΩ
+- 1 LED RGB comum (4 pinos)
+- 3 resistores de 220 Ω
+- 3 botões
 - Arduino UNO
 - Protoboard
-
-**Regras:**
-- Conectar a LDR no pino analógico A0.
-- Se a leitura for menor que 400 (escuro), acenda o LED (pino 13).
-- Se for maior, mantenha apagado.
 
 ### 💾 Salvar como: `09 - SeuNome`
 
-## 🧪 ATIVIDADE 10 — Alarme com Sensor de Toque e Buzzer
-### **Objetivo:** Acionar som ao detectar toque.
+## 🧪 ATIVIDADE 10 —  Código de Acesso com Teclado 4x4
+### **Objetivo:** Simular uma fechadura digital que liga uma lâmpada quando o código correto é digitado.
+O aluno deverá usar o teclado para inserir uma senha de 3 dígitos (ex: 123). Se digitada corretamente, a lâmpada acende por 3 segundos. Se errar, pisca um LED vermelho 2 vezes.
+Trabalha validação de sequência e controle de tempo.
 
 **Componentes:**
-- 1 botão ou sensor de toque
-- 1 buzzer (ativo)
+- 1 teclado 4x4
+- 1 lâmpada
+- 1 LED vermelho
 - Arduino UNO
 - Protoboard
-
-**Regras:**
-- Quando o botão for pressionado, o buzzer toca.
-- Quando não pressionado, fica em silêncio.
-- Conecte o buzzer ao pino 10 e o botão ao pino 2.
 
 ### 💾 Salvar como: `10 - SeuNome`

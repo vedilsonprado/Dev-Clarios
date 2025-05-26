@@ -1,4 +1,4 @@
-# Aula 09 -  Serviços de Redes
+# Aula 10 -  Serviços de Redes
 ## Conhecimentos:
 - 2. Modelos e protocolo de redes
     - 2.1. Definição
@@ -19,4 +19,4 @@
         - 5.2.3.RDP (Remote Desktop Protocol)
 
 # Apresentação
-- ./06-ProtocoloRede.pdf
+
