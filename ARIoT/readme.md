@@ -1,8 +1,11 @@
-# ARQUITETURA DE REDES COM IOT
-
+# 👨🏻‍💻 Técnico em Desenvolvimento de Sistemas - TURMA D 2025
+## 🤖 ARQUITETURA DE REDES COM IOT
 |Objetivo:|
 |-|
 |Desenvolver capacidades básicas e socioemocionais necessárias para utilizar serviços de redes locais e industriais, para aplicações em nuvens públicas e privadas|
+
+## Horários
+![ds00](../assets/Horario1sem2025.png)
 
 - Carga Horária (**Mínimo 75%** de Frequência)
 
@@ -10,13 +13,44 @@
 |-|-|-|
 |Presencial|75 horas|100 aulas|
 
+## Critérios de avaliação (Críticos e Desejaveis)
+
+- Notas (Baseada em requisitos Críticos e desejáveis. **Mínimo 50** de 0 a 100)
+
+![ds00](./assets/criteriosariot.png)
+
+### Composição da Nota
+
+|DESEMPENHO|NOTA| |DESEMPENHO|NOTA|
+|-|:-:|:-:|:-:|:-:|
+|09 CC + 09 CD|100| |09 CC|50|
+|08 CC + 08 CD|95| |08 CC|45|
+|07 CC + 07 CD|90| |07 CC|40|
+|06 CC + 06 CD|85| |06 CC|35|
+|05 CC + 05 CD|80| |05 CC|30|
+|04 CC + 04 CD|75| |04 CC|25|
+|03 CC + 03 CD|70| |03 CC|20|
+|02 CC + 02 CD|65| |02 CC|15|
+|01 CC + 01 CD|60| |01 CC|10|
+
+**CC: Critério Crítico** <br>
+CD: Critério Desejável
+
+
 ## Competências Específicas e Socioemocionais 
 
-### Capacidades Básicas e seus Critérios:
-![image](https://github.com/user-attachments/assets/793ee33e-0b92-48e1-9df7-fc0a3c61899d)
+### Capacidades Básicas:
+- 1 Identificar as topologias empregadas nas redes de computadores
+- 2 Identificar modelos e protocolo TCP/IP de rede e suas aplicações na comunicação entre sistemas computacionais
+- 3 Utilizar ativos e passivos que compõem uma rede de computadores
+- 4 Aplicar arquitetura de hardware em IoT
+- 5 Configurar os tipos de serviços fundamentais de redes
 
-### Capacidades Socioemocionais e seus Critérios:
-![image](https://github.com/user-attachments/assets/03738bd5-028b-46b1-b278-5b0a49efdc85)
+### Capacidades Socioemocionais
+- 1 Demonstrar autogestão
+- 2 Demonstrar pensamento analítico
+- 3 Demonstrar inteligência emocional
+- 4 Demonstrar autonomia
 
 ## Conhecimentos:
 - 1 Arquitetura de Redes
