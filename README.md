@@ -7,4 +7,4 @@ Esse itinerário específico é voltado para a Formação Técnica e Profissiona
 [Jogo MAGNOBROS](https://mateussr.itch.io/magnobros)
 
 ## Oportunidades
-[CISCO #NetGames LATAM](https://right-polonium-cd5.notion.site/CISCO-NetGames-LATAM-1ba7e2ccc67a80c0ae57d0966473baf1)
+[CISCO #NetGames LATAM](https://right-polonium-cd5.notion.site/CISCO-NetGames-LATAM-1ba7e2ccc67a80c0ae57d0966473baf1) 

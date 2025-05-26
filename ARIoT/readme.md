@@ -24,14 +24,14 @@
 |DESEMPENHO|NOTA| |DESEMPENHO|NOTA|
 |-|:-:|:-:|:-:|:-:|
 |09 CC + 09 CD|100| |09 CC|50|
-|08 CC + 08 CD|95| |08 CC|45|
-|07 CC + 07 CD|90| |07 CC|40|
-|06 CC + 06 CD|85| |06 CC|35|
-|05 CC + 05 CD|80| |05 CC|30|
-|04 CC + 04 CD|75| |04 CC|25|
-|03 CC + 03 CD|70| |03 CC|20|
-|02 CC + 02 CD|65| |02 CC|15|
-|01 CC + 01 CD|60| |01 CC|10|
+|09 CC + 08 CD|95| |08 CC|45|
+|09 CC + 07 CD|90| |07 CC|40|
+|09 CC + 06 CD|85| |06 CC|35|
+|09 CC + 05 CD|80| |05 CC|30|
+|09 CC + 04 CD|75| |04 CC|25|
+|09 CC + 03 CD|70| |03 CC|20|
+|09 CC + 02 CD|65| |02 CC|15|
+|09 CC + 01 CD|60| |01 CC|10|
 
 **CC: Critério Crítico** <br>
 CD: Critério Desejável
