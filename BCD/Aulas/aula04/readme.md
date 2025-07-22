@@ -5,7 +5,9 @@
 |Desenvolver capacidades técnicas e socioemocionais relativas à criação da estrutura para armazenamento, manipulação e persistência de dados.|
 
 ### O que é a  Modelagem Lógica?
-	Definição: É uma fase no processo de design de banco de dados que segue a modelagem conceitual. 
+**Definição:**
+
+	É uma fase no processo de design de banco de dados que segue a modelagem conceitual. 
 
 	É criado a partir das descrições dos dados representadas em um modelo conceitual. 
 

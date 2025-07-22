@@ -20,8 +20,6 @@ Uma entidade é representada por um conjunto de atributos.
 - **Atributo Derivado**: São valores obtidos após algum processamento das informações do próprio banco de dados.
 	- **Exemplo**: idade de um cliente, tempo de locação, total de mídias locadas por cliente, todos são atributos derivados. **idade = dataAtual – dataNascimento**
 
-![Dados vs Informações](../../assets/dados.png)
-
 ### O que são Entidades?
 **Definição:** Conjunto de objetos ou conceito identificáveis no mundo real sobre os quais deseja-se manter informações no banco de dados.
 

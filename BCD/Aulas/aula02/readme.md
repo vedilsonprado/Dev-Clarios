@@ -12,8 +12,6 @@
 - Carros que são vendidos;
 - Departamento de vendas;
 
-![Dados vs Informações](../../assets/dados.png)
-
 ### O que são Atributos?
 **Definição:** Cada Entidade tem propriedades particulares que a descrevem que são chamadas de atributos. Os Atributos são características próprias que descrevem a entidade.
 

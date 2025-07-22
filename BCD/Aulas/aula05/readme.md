@@ -5,7 +5,7 @@
 |Desenvolver capacidades técnicas e socioemocionais relativas à criação da estrutura para armazenamento, manipulação e persistência de dados.|
 
 ### O que é a  Modelagem Lógica?
-	Definição: O modelo físico é a representação mais detalhada e específica do banco de dados, levando em conta os detalhes de implementação, como tipos de dados, chaves primárias e estrangeiras, espaços de armazenamento, entre outros.
+**Definição:** O modelo físico é a representação mais detalhada e específica do banco de dados, levando em conta os detalhes de implementação, como tipos de dados, chaves primárias e estrangeiras, espaços de armazenamento, entre outros.
  
 ### Tipos primitivos
 
@@ -50,17 +50,31 @@
 	
 	Uma representação visual simplificada da notação minima-máxima, utilizando símbolos gráficos que se assemelham a pés de galinha.
 
-![Pé de Galinha Um](../../assets/PeDeGalinhaUm.png) - Relacionamento conceitual de “um”
+**Relacionamento conceitual de “um”:**
 
-![Pé de Galinha Muitos](../../assets/PeDeGalinhaMuitos.png) - Relacionamento conceitual de “muitos”
+![Pé de Galinha Um](../../assets/PeDeGalinhaUm.png)
 
-![Pé de Galinha Um e somente um](../../assets/PeDeGalinhaSomenteUm.png) - Relacionamento conceitual de “somente um"
+**Relacionamento conceitual de “muitos”:**
 
-![Pé de Galinha Zero ou Um](../../assets/PeDeGalinhaZeroUm.png) - Relacionamento conceitual de “Minimo zero e Máximo um"
+![Pé de Galinha Muitos](../../assets/PeDeGalinhaMuitos.png)
 
-![Pé de Galinha Um ou Muitos](../../assets/PeDeGalinhaUmMuitos.png) - Relacionamento conceitual de “Minimo um e Máximo muitos"
+**Relacionamento conceitual de “somente um":**
 
-![Pé de Galinha Zero ou Muitos](../../assets/PeDeGalinhaZeroMuitos.png) - Relacionamento conceitual de “Minimo zero e Máximo muitos"
+![Pé de Galinha Um e somente um](../../assets/PeDeGalinhaSomenteUm.png)
+
+**Relacionamento conceitual de “Minimo zero e Máximo um":**
+
+![Pé de Galinha Zero ou Um](../../assets/PeDeGalinhaZeroUm.png)
+
+**Relacionamento conceitual de “Minimo um e Máximo muitos":**
+
+![Pé de Galinha Um ou Muitos](../../assets/PeDeGalinhaUmMuitos.png)
+
+**Relacionamento conceitual de “Minimo zero e Máximo muitos":**
+
+![Pé de Galinha Zero ou Muitos](../../assets/PeDeGalinhaZeroMuitos.png)
+
+**Relacionamentos com Notação James Martin:**
 
 ![Associações na Notação Pé de Galinha](../../assets/AssociacaoPeDeGalinha.png)
 
