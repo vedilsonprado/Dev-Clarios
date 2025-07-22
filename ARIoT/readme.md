@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Técnico em Desenvolvimento de Sistemas - TURMA D 2025
+# 👨🏻‍💻 Técnico em Desenvolvimento de Sistemas - TURMA DEV-Clarios
 ## 🤖 ARQUITETURA DE REDES COM IOT
 |Objetivo:|
 |-|
