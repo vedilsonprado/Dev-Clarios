@@ -7,7 +7,7 @@
 ### O que é a  Modelagem Lógica?
 **Definição:** O modelo físico é a representação mais detalhada e específica do banco de dados, levando em conta os detalhes de implementação, como tipos de dados, chaves primárias e estrangeiras, espaços de armazenamento, entre outros.
  
-### Tipos primitivos
+## Tipos primitivos
 
 **Int:** Inteiro. O tipo INT é usado para armazenar valores numéricos inteiros. 
 
@@ -36,19 +36,19 @@
 
 	![Tipos Primitivos Especiais](../../assets/TiposPrimitivosEspacial.png)
 
-### Notações Gráficas
+## Notações Gráficas
 
-**Notação Min-Max**
+### **Notação Min-Max**
 
-	Representa a quantidade mínima e máxima de ocorrências de uma entidade em um relacionamento.
+Representa a quantidade mínima e máxima de ocorrências de uma entidade em um relacionamento.
 
-	É representada por um par de números, onde o primeiro indica o mínimo e o segundo o máximo. Por exemplo:
+É representada por um par de números, onde o primeiro indica o mínimo e o segundo o máximo. Por exemplo:
 
 ![Tipos Primitivos Especiais](../../assets/NotacaoMinMax.png)
 
-**Notação James Martin (Pé de Galinha)**
+### **Notação James Martin (Pé de Galinha)**
 	
-	Uma representação visual simplificada da notação minima-máxima, utilizando símbolos gráficos que se assemelham a pés de galinha.
+Uma representação visual simplificada da notação minima-máxima, utilizando símbolos gráficos que se assemelham a pés de galinha.
 
 **Relacionamento conceitual de “um”:**
 
