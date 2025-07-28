@@ -19,6 +19,9 @@
 
 ### Composição da Nota
 
+**CC: Critério Crítico** <br>
+CD: Critério Desejável
+
 |DESEMPENHO|NOTA| |DESEMPENHO|NOTA|
 |-|:-:|:-:|:-:|:-:|
 |17 CC + 17 CD|100| |17 CC|50|
@@ -32,13 +35,7 @@
 |17 CC + 03 a 04 CD|60| |03 a 04 CC|10|
 |17 CC + 01 a 02 CD|55| |01 a 02 CC|05|
 
-
 ![ds00](./assets/criteriosbcd.jpg)
-
-
-**CC: Critério Crítico** <br>
-CD: Critério Desejável
-
 
 ## Competências Específicas e Socioemocionais 
 
