@@ -26,13 +26,12 @@ Realizar uma pesquisa sobre bancos de dados relacionais e não relacionais, abor
 ### Apresentação
 
 Elaborar uma apresentação (slides) com base na pesquisa realizada, seguindo as seguintes diretrizes:
-- Estrutura: A apresentação deve conter:
-	- Título e nomes dos integrantes.
-	- Introdução (contexto e objetivos da apresentação).
-	- Bancos de Dados Relacionais (conceitos, exemplos, vantagens, desvantagens, casos de uso).
-	- Bancos de Dados Não Relacionais (conceitos, tipos, exemplos, vantagens, desvantagens, casos de uso).
-	- Comparativo entre Bancos de Dados Relacionais e Não Relacionais.
-	- Conclusão (principais aprendizados e recomendações).
+- Estrutura: 
+	- A apresentação deve conter:
+		- Bancos de Dados Relacionais (conceitos, exemplos, vantagens, desvantagens, casos de uso).
+		- Bancos de Dados Não Relacionais (conceitos, tipos, exemplos, vantagens, desvantagens, casos de uso).
+		- Comparativo entre Bancos de Dados Relacionais e Não Relacionais.
+		- Conclusão (principais aprendizados e recomendações).
 
 Formato: A apresentação deve ser clara, objetiva e visualmente organizada. Utilize recursos visuais (diagramas, gráficos, imagens) para facilitar a compreensão.
 
