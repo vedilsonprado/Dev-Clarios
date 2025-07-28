@@ -17,21 +17,24 @@
 
 - Notas (Baseada em requisitos Críticos e desejáveis. **Mínimo 50** de 0 a 100)
 
-![ds00](./assets/criteriosarbcd.png)
-
 ### Composição da Nota
 
 |DESEMPENHO|NOTA| |DESEMPENHO|NOTA|
 |-|:-:|:-:|:-:|:-:|
-|09 CC + 09 CD|100| |09 CC|50|
-|09 CC + 08 CD|95| |08 CC|45|
-|09 CC + 07 CD|90| |07 CC|40|
-|09 CC + 06 CD|85| |06 CC|35|
-|09 CC + 05 CD|80| |05 CC|30|
-|09 CC + 04 CD|75| |04 CC|25|
-|09 CC + 03 CD|70| |03 CC|20|
-|09 CC + 02 CD|65| |02 CC|15|
-|09 CC + 01 CD|60| |01 CC|10|
+|17 CC + 17 CD|100| |17 CC|50|
+|17 CC + 16 CD|95| |16 CC|45|
+|17 CC + 15 CD|90| |15 CC|40|
+|17 CC + 13 a 14 CD|85| |13 a 14 CC|35|
+|17 CC + 11 a 12 CD|80| |11 a 12 CC|30|
+|17 CC + 09 a 10 CD|75| |09 a 10 CC|25|
+|17 CC + 07 a 08 CD|70| |07 a 08 CC|20|
+|17 CC + 05 a 06 CD|65| |05 a 06 CC|15|
+|17 CC + 03 a 04 CD|60| |03 a 04 CC|10|
+|17 CC + 01 a 02 CD|55| |01 a 02 CC|05|
+
+
+![ds00](./assets/criteriosbcd.jpg)
+
 
 **CC: Critério Crítico** <br>
 CD: Critério Desejável
