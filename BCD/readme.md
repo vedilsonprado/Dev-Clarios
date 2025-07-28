@@ -5,7 +5,6 @@
 |Desenvolver capacidades técnicas e socioemocionais relativas à criação da estrutura para armazenamento, manipulação e persistência de dados.|
 
 ## Horários
-![ds00](../assets/Horario1sem2025.png)
 
 - Carga Horária (**Mínimo 75%** de Frequência)
 
