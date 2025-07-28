@@ -33,9 +33,7 @@ Elaborar uma apresentação (slides) com base na pesquisa realizada, seguindo as
 		- Comparativo entre Bancos de Dados Relacionais e Não Relacionais.
 		- Conclusão (principais aprendizados e recomendações).
 
-Formato: A apresentação deve ser clara, objetiva e visualmente organizada. Utilize recursos visuais (diagramas, gráficos, imagens) para facilitar a compreensão.
-
-Duração: A apresentação terá duração máxima de 15 por grupo.
+Duração: A apresentação terá duração máxima de 15min.
 
 
 ## Conhecimentos Trabalhados:
