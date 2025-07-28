@@ -1,10 +1,5 @@
 # 👨🏻‍💻 07-28 | Atividade 01 - Bancos de Dados Relacionais e Não Relacionais
 
-|Objetivo:|
-|-|
-|Esta atividade tem como objetivo aprofundar o conhecimento sobre os diferentes tipos de bancos de dados, focando nas características, vantagens e desvantagens dos modelos relacionais e não relacionais (NoSQL). Os alunos deverão pesquisar, analisar e apresentar suas descobertas de forma clara e concisa.
-|
-
 ## Objetivos
 - Compreender os conceitos fundamentais de bancos de dados relacionais e não relacionais.
 - Identificar as principais diferenças entre os modelos de bancos de dados relacionais e não relacionais.
